@@ -1,0 +1,6 @@
+; $Id$
+name = Region Reference
+description = Defines an field type for referencing theme regions
+dependencies[] = content
+package = CCK
+core = 6.x
